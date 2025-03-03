@@ -4,7 +4,7 @@ require_relative 'serasa_experian/version'
 require_relative 'serasa_experian/configuration'
 require_relative 'serasa_experian/client'
 require_relative 'serasa_experian/authentication'
-require_relative 'serasa_experian/companies/base'
+require_relative 'serasa_experian/base'
 require_relative 'serasa_experian/companies/report'
 
 module SerasaExperian
